@@ -1,0 +1,19 @@
+.layout {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 5px;
+}
+
+.layout .line {
+  display: flex;
+  flex-direction: row;
+  gap: 5px;
+  justify-content: center;
+}
+
+.layout .line .house {
+  display: block;
+  width: 60px;
+  aspect-ratio: 100/197;
+}

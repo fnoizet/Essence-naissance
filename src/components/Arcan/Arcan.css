@@ -1,0 +1,9 @@
+.arcanCard {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 2px solid #000;
+  aspect-ratio: 100/197;
+  background-size: cover;
+}
